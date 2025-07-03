@@ -1,5 +1,7 @@
 ## Hi, I'm Nivitha 
 
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nivitha-r-a3b68424b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nivitharathnakumar2003@gmail.com) 
